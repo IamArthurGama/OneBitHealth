@@ -1,2 +1,2 @@
-# REACT
- projetos em react
+# Projeto de medição de IMC
+ Projeto em React 
